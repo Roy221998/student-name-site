@@ -1,3 +1,8 @@
 # student portfolio
 
-Hey! Welcome to my portfolio. It's comimg up tomorrow.
+Hey! Welcome to my portfolio.
+For now, I know:
+
+JavaScript
+React
+git
